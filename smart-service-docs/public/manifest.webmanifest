@@ -1,0 +1,9 @@
+{
+  "name": "Smart Service Docs",
+  "short_name": "SS Docs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0b3b66",
+  "icons": []
+}
